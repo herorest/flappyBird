@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button_rate",
+    "texture": "79c5bc7d-11b5-4764-982f-1f0b447f7f53",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      62,
+      36
+    ],
+    "offset": [
+      0,
+      4
+    ],
+    "originalSize": [
+      74,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
